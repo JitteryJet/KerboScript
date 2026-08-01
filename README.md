@@ -9,11 +9,11 @@ by using Windows junctions - so far no problems with the Windows file system.
 The KSP install accesses the KeroScript folder by linking the so-called kOS "Archive volume"
 to the KerboScript folder.
 
-The Archive volume corresponds to the Ships/Script folder in the KSP installation folder.
+The Archive volume corresponds to the Ships/Script folder in the KSP install folder.
 This is ugly (it perhaps should have been in the GameData folder) but it is unlikely
 the KSP Developers will fix that now.
 
-The KerboScript scripts may or may not work depending on a lot of factors. The scripts I featured
+The KerboScript scripts may or may not work depending on a lot of factors. The scripts I feature
 on one of my videos are more likely to work.
 
 The repository also contains a lot of garbage and test files, some of it interesting!
