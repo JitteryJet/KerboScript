@@ -17,7 +17,7 @@
 //    -
 //
 // Update History:
-//    12/06/2026 V01  - Created.
+//    04/08/2026 V01  - Created.
 //                    -
 //
 @lazyglobal off.
@@ -27,5 +27,5 @@ wait until ship:unpacked.
 if ship:status = "PRELAUNCH"
   {
     core:part:getmodule("kOSProcessor"):doevent("Open Terminal").
-    runpath("archive:/KSP RP-1 kOS Firstplay/LaunchKarmanLine V01").
+    runpath("archive:/Kerbal Realistic Progression One/LaunchKarmanLine V01").
   }
